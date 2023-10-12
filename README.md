@@ -1,4 +1,4 @@
-#All data structures written by myself
+# All data structures written by myself
 - View WRITEUP.pdf for statistics
 - The created Bloom filter, Bit Vector, Hash Table, and Linked List are used to create a "chat moderation" system that detects banned words.
 - The Bloom Filter and Bit Vector are used to increase efficiency to provide an estimate on whether or not the word exists in the Hash Table.
